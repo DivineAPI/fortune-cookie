@@ -31,6 +31,8 @@ Why Fortune Cookie API?
 Divine API can help the developers to inculcate a finely built fortune cookie API and give
 their customers a fun experience of cracking their own fortune cookie digitally.
 
+
+
 Features
 ==========
 
@@ -81,7 +83,6 @@ Result Example:
 
 Example 
 =======
-The following example is for sun sign aries - 
 
 
 cURL
@@ -211,7 +212,7 @@ Credits
 
 "DivineAPI" was created by `Azhar <https://azhar-spiderdev.github.io/portfolio>`_
 
-Source of horoscope updates - http://divineapi.com/horoscope-api/
+Source of updates - https://divineapi.com/fortune-cookie-api
 
 Please feel free to use and adapt this awesome API.
 
